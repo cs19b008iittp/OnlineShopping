@@ -36,3 +36,6 @@ After Creating Database,
 15th Step: User to login as admin can navigate to browser URL "http://localhost/onlineshopping/admin/"
 16th Step: Admin can see and edit the user details , he can add new users , view the product list, add new product, orders page (details of orders of users), logout etc.
 17th Step: Dont close the webpage of URL "http://localhost/phpmyadmin/" during execution process.
+Screenshots:
+
+
