@@ -38,5 +38,8 @@ After Creating Database,
 17th Step: Dont close the webpage of URL "http://localhost/phpmyadmin/" during execution process.
 
 
+SCREENSHOTS:
+![](Images/image1.png)
+
 
 
